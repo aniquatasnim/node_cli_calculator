@@ -17,7 +17,7 @@ A simple command-line interface (CLI) calculator built with Node.js. This tool p
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/node-cli-calculator.git  
+   git clone https://github.com/aniquatasnim/node_cli_calculator.git
    cd node-cli-calculator  
    ```  
 2. Install dependencies (if any):  
